@@ -1,0 +1,9 @@
+C:\Users\Maxim\source\repos\MonoUI\MonoUI\bin\Debug\netcoreapp3.1\MonoBundle.deps.json
+C:\Users\Maxim\source\repos\MonoUI\MonoUI\bin\Debug\netcoreapp3.1\MonoBundle.dll
+C:\Users\Maxim\source\repos\MonoUI\MonoUI\bin\Debug\netcoreapp3.1\MonoBundle.pdb
+C:\Users\Maxim\source\repos\MonoUI\MonoUI\obj\Debug\netcoreapp3.1\MonoBundle.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\MonoUI\MonoUI\obj\Debug\netcoreapp3.1\MonoBundle.AssemblyInfoInputs.cache
+C:\Users\Maxim\source\repos\MonoUI\MonoUI\obj\Debug\netcoreapp3.1\MonoBundle.AssemblyInfo.cs
+C:\Users\Maxim\source\repos\MonoUI\MonoUI\obj\Debug\netcoreapp3.1\MonoBundle.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\MonoUI\MonoUI\obj\Debug\netcoreapp3.1\MonoBundle.dll
+C:\Users\Maxim\source\repos\MonoUI\MonoUI\obj\Debug\netcoreapp3.1\MonoBundle.pdb
